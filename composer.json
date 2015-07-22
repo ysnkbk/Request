@@ -1,0 +1,23 @@
+{
+    "name": "machine/request",
+    "type": "library",
+    "description": "Simple PHP request class",
+    "keywords": ["request","request class", "http request", "php"],
+    "homepage": "https://github.com/cengizhancaliskan/Request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cengizhan Çalışkan",
+            "email": "cengizhancaliskan@gmail.com",
+            "homepage": "https://cengizhancaliskan.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Machine\\Http\\": ""
+        }
+    }
+}
