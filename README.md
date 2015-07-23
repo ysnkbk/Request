@@ -1,11 +1,10 @@
 ## Request
 ============
-
 [![Build Status](https://travis-ci.org/machine/request.svg)](https://travis-ci.org/machine/request)
 [![Latest Stable Version](https://poser.pugx.org/machine/request/v/stable.svg)](https://packagist.org/packages/machine/request)
 [![License](https://poser.pugx.org/machine/request/license.svg)](https://packagist.org/packages/machine/request)
 
-## This library provides a fast implementation of a requests, responses and cookies
+This library provides a fast implementation of a requests, responses and cookies
 
 Installation
 ------------
