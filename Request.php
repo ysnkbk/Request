@@ -154,7 +154,7 @@ class Request
     public function getHost()
     {
         if (null === $this->host) {
-            if (!$this->host = $this->getHeaders('HOST')) {
+            if (!$this->host = $this->getHeader('HOST')) {
                 if (!$this->host = $this->getServer('SERVER_NAME')) {
                     $this->host = $this->getServer('SERVER_ADDR', '');
                 }

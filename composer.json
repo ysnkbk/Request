@@ -1,8 +1,8 @@
 {
     "name": "machine/request",
     "type": "library",
-    "description": "Simple PHP request class",
-    "keywords": ["request","request class", "http request", "php"],
+    "description": "Simple fast and lightweight PHP request helper class",
+    "keywords": ["request","request class", "http request", "request helper", "php"],
     "homepage": "https://github.com/cengizhancaliskan/Request",
     "license": "MIT",
     "authors": [
