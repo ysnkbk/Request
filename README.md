@@ -1,6 +1,6 @@
 ## Request
 ============
-[![Build Status](https://travis-ci.org/machine/request.svg)](https://travis-ci.org/machine/request)
+[![Build Status](https://travis-ci.org/cengizhancaliskan/Request.svg)](https://travis-ci.org/cengizhancaliskan/Request)
 [![Latest Stable Version](https://poser.pugx.org/machine/request/v/stable.svg)](https://packagist.org/packages/machine/request)
 [![License](https://poser.pugx.org/machine/request/license.svg)](https://packagist.org/packages/machine/request)
 
