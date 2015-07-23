@@ -471,6 +471,10 @@ class Request
 
     public function isJsonp()
     {
-        return !empty($this->getQuery('callback'));
+        if($this->getQuery('callback')) {
+            return true;
+        }
+
+        return false;
     }
 }
