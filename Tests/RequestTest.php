@@ -14,7 +14,6 @@ class RequestTest extends \PHPUnit_Framework_TestCase
     public function testInitialize()
     {
         $request = new Request();
-
         $request->initialize($_SERVER, $_GET, $_POST, $_FILES, $_COOKIE);
     }
 }
