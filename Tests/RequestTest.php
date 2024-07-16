@@ -9,6 +9,8 @@ class RequestTest extends \PHPUnit_Framework_TestCase
     public function testConstructor()
     {
         $request = new Request();
+
+
     }
 
     public function testInitialize()
